@@ -1,4 +1,4 @@
-# Feedback and Discussion Tracker
+# Critiques Feedback Discussion Board
 
 This is an application designed to track feedback and discussions for a variety of users, including technical persons, sponsors, and other stakeholders. The app allows users to submit feedback, rate services or products about various technical issues or topics.
 
